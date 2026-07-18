@@ -36,7 +36,6 @@ Mạch được thiết kế tương thích hoàn toàn với Arduino Nano về 
 - LED_BUILTIN: D13
 ![Vietduino Nano](/extras/VietduinoNano2.png)
 ### Kích thước
-- Kích thước mạch: 68.6 × 53.34 mm
 ![Vietduino Nano](/extras/VietduinoNano1.jpg)
 ## Hướng dẫn sử dụng cơ bản với Arduino IDE
 ### Bước 1: Cài đặt Arduino IDE
