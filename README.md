@@ -1,4 +1,4 @@
-# Vietduino Uno (Arduino Uno Compatible)
+# Vietduino Nano (Arduino Nano Compatible)
 
 ## Giới thiệu
 Vietduino Nano là bo mạch phát triển do MakerEDU nghiên cứu và sản xuất, dựa trên nguyên mẫu Arduino Nano, hướng tới độ ổn định cao, hiệu suất tốt và độ bền lâu dài – đặc biệt phù hợp cho Giáo Dục STEM, Phòng Thí Nghiệm, Maker Space, nghiên cứu và phát triển ứng dụng nhúng cơ bản.
