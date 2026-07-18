@@ -34,6 +34,7 @@ Mạch được thiết kế tương thích hoàn toàn với Arduino Nano về 
 - PWM: D3, D5, D6, D9, D10, D11
 - Analog Input: 8 chân (A0 ~ A7)
 - LED_BUILTIN: D13
+![Vietduino Nano](/extras/VietduinoNano2.png)
 ### Kích thước
 - Kích thước mạch: 68.6 × 53.34 mm
 ![Vietduino Nano](/extras/VietduinoNano1.jpg)
