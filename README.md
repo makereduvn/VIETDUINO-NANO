@@ -85,7 +85,7 @@ void loop() {
 - Luôn đảm bảo mạch:
   - Không bị chập mạch
   - Không đấu sai cực nguồn
-- Nên ngắt nguồn ngoài trước khi thay đổi đấu nối phần cứng.
+- Nên ngắt nguồn trước khi thay đổi đấu nối phần cứng.
  
  ## Hình ảnh sản phẩm
 ![Vietduino Nano](/extras/VietduinoNano5.png)
