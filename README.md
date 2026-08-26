@@ -48,16 +48,19 @@ Mạch được thiết kế tương thích hoàn toàn với Arduino Nano về 
 - Thông thường Driver sẽ tự nhận trên hầu hết các hệ điều hành, nếu máy tính chưa nhận driver, [tải và cài đặt Driver CH343P tại đây.](https://www.wch-ic.com/downloads/CH341SER_ZIP.html)
 ### Bước 4: Cấu hình mạch trong Arduino IDE
 Thực hiện các thiết lập sau trong Arduino IDE:
-- Chọn loại board: Tools → Board → Arduino AVR Boards → Arduino Nano
+- Chọn loại board: Tools → Board → Arduino AVR Boards → **Arduino Nano**
+- Chọn Processor: **ATmega328P**
 - Chọn cổng kết nối (Port): Tools → Port → chọn cổng tương ứng với Vietduino Nano (nếu chưa xác định được, hãy rút cáp USB và cắm lại để nhận diện cổng mới xuất hiện)
+- 
 ![Vietduino Nano](/extras/VietduinoNano3.jpg)
+
 ### Bước 5: Nạp chương trình thử nghiệm (Blink)
 Sau khi cấu hình xong, bạn có thể nạp chương trình Blink để kiểm tra mạch.
 Chương trình này sẽ làm LED_BUILTIN tại chân D13 chớp tắt mỗi 1 giây.
 ```ino
 /*
   Blink
-  Turns an LED_BUILTIN on D13 of Vietduino Uno for one second, then off for one second, repeatedly.
+  Turns an LED_BUILTIN on D13 of Vietduino Nano for one second, then off for one second, repeatedly.
 */
 // the setup function runs once when you press reset or power the board
 void setup() {
