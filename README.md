@@ -1,16 +1,16 @@
 # Vietduino Nano (Arduino Nano Compatible)
 
 ## Giới thiệu
-Vietduino Nano là bo mạch phát triển do MakerEDU nghiên cứu và sản xuất, dựa trên nguyên mẫu Arduino Nano, hướng tới độ ổn định cao, hiệu suất tốt và độ bền lâu dài – đặc biệt phù hợp cho Giáo Dục STEM, Phòng Thí Nghiệm, Maker Space, nghiên cứu và phát triển ứng dụng nhúng cơ bản.
+**Vietduino Nano** là bo mạch phát triển do MakerEDU nghiên cứu và sản xuất, dựa trên nguyên mẫu Arduino Nano, hướng tới độ ổn định cao, hiệu suất tốt và độ bền lâu dài – đặc biệt phù hợp cho Giáo Dục STEM, Phòng Thí Nghiệm, Maker Space, nghiên cứu và phát triển ứng dụng nhúng cơ bản.
 
-Mạch được thiết kế tương thích hoàn toàn với Arduino Nano về hình dạng, chuẩn chân tín hiệu và cách sử dụng, cho phép người dùng tận dụng trực tiếp toàn bộ hệ sinh thái Arduino: thư viện, ví dụ mẫu, shield và cộng đồng hỗ trợ.
+**Vietduino Nano** được thiết kế tương thích hoàn toàn với Arduino Nano về hình dạng, chuẩn chân tín hiệu và cách sử dụng, cho phép người dùng tận dụng trực tiếp toàn bộ hệ sinh thái Arduino: thư viện, ví dụ mẫu, shield và cộng đồng hỗ trợ.
+
 ## Ưu điểm nổi bật
-- Tương thích hoàn toàn Arduino Nano, giữ nguyên form factor, vị trí chân và chuẩn giao tiếp, dễ dàng thay thế Arduino Nano trong các dự án hiện có.
+- Tương thích hoàn toàn Arduino Nano, giữ nguyên form factor, vị trí chân và chuẩn giao tiếp.
 - Sử dụng linh kiện chính hãng chất lượng cho độ bền và độ ổn định cao.
-- **IC chuyển đổi USB–UART chính hãng**
-  - Sử dụng IC CH340, đảm bảo giao tiếp ổn định, nạp chương trình tin cậy và độ bền cao khi sử dụng lâu dài.
-- **Bảo vệ cổng USB máy tính**
-  - Tích hợp Diode bảo vệ cổng USB, giúp tăng độ an toàn trong quá trình học tập và thử nghiệm.
+- Sử dụng IC chuyển đổi USB–UART chính hãng CH340, đảm bảo giao tiếp ổn định, nạp chương trình tin cậy và độ bền cao khi sử dụng lâu dài.
+- Bảo vệ cổng USB máy tính với Diode bảo vệ cổng USB, giúp tăng độ an toàn trong quá trình học tập và thử nghiệm.
+
 ## Thông số kỹ thuật
 ### Thông tin chung
 - Model: Vietduino Nano (Arduino Nano Compatible)
