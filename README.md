@@ -8,7 +8,7 @@
 ## Ưu điểm nổi bật
 - Tương thích hoàn toàn Arduino Nano, giữ nguyên form factor, vị trí chân và chuẩn giao tiếp.
 - Sử dụng linh kiện chính hãng chất lượng cho độ bền và độ ổn định cao.
-- Sử dụng IC chuyển đổi USB–UART chính hãng CH340, đảm bảo giao tiếp ổn định, nạp chương trình tin cậy và độ bền cao khi sử dụng lâu dài.
+- Sử dụng IC chuyển đổi USB–UART CH340, đảm bảo giao tiếp ổn định, nạp chương trình tin cậy và độ bền cao khi sử dụng lâu dài.
 - Bảo vệ cổng USB máy tính với Diode bảo vệ cổng USB, giúp tăng độ an toàn trong quá trình học tập và thử nghiệm.
 
 ## Thông số kỹ thuật
